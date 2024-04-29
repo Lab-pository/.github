@@ -5,7 +5,7 @@
 ## 연구 목록
 
 | 실험실 이름| 실험 내용|
-|---||
+|---|---|
 | [hello-virtual-threads](https://github.com/Lab-pository/hello-virtual-threads) | Java의 Virtual Thread 관련 실험실|
 | [hello-aop](https://github.com/Lab-pository/hello-aop) | Spring AOP 관련 실험실 |
 | [hello-java](https://github.com/Lab-pository/hello-java)| Java 관련 실험실|
